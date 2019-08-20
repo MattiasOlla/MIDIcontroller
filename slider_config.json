@@ -1,0 +1,49 @@
+{
+    "sliders": [
+        {
+            "object": "slider1",
+            "control assign": 6,
+            "value": [66,48,104,67,29,0,0,4,0]
+        },
+        {
+            "object": "slider2",
+            "control assign": 6,
+            "value": [66,48,104,67,29,0,0,4,1]
+        },
+        {
+            "object": "slider3",
+            "control assign": 6,
+            "value": [66,48,104,67,29,0,0,4,2]
+        },
+        {
+            "object": "slider4",
+            "control assign": 6,
+            "value": [66,48,104,67,29,0,0,4,3]
+        },
+        {
+            "object": "slider5",
+            "control assign": 6,
+            "value": [66,48,104,67,29,0,0,4,4]
+        },
+        {
+            "object": "slider6",
+            "control assign": 6,
+            "value": [66,48,104,67,29,0,0,4,5]
+        },
+        {
+            "object": "slider7",
+            "control assign": 6,
+            "value": [66,48,104,67,29,0,0,4,6]
+        },
+        {
+            "object": "slider8",
+            "control assign": 6,
+            "value": [66,48,104,67,29,0,0,4,7]
+        },
+        {
+            "object": "master",
+            "control assign": 6,
+            "value": [66,48,104,67,29,0,0,4,8]
+        }
+    ]
+}
